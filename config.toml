@@ -1,0 +1,5 @@
+source_dir = "testdata"
+dest_dir = "backups"
+recipient_public_key = "recipient_public.key"
+log_file = "backup_tool.log"
+max_log_size_mb = 5
